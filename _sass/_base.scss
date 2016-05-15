@@ -183,14 +183,6 @@ pre {
   margin-top: 10px;
 }
 
-.contactform {
-  margin-left: 25%;
-
-  @include media-query($on-palm) {
-    margin-left: auto;
-  }
-}
-
 
 
 /**
